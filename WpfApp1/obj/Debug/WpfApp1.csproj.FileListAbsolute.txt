@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Quanap5\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Quanap5\WpfApp2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Quanap5\WpfApp2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Quanap5\WpfApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\admin\Desktop\Quanap5\WpfApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
